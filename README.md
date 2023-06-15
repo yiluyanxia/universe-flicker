@@ -2,6 +2,7 @@
 
 The entire universe will flicker for you. this sentence comes from "Three Body", I was crazy about it at that time, and then I wanna to drawing it out. The project mainly uses [three.js](https://github.com/mrdoob/three.js/), The design inspiration and texture comes from [Solar System Scope ](https://www.solarsystemscope.com/).
 
+[English ](./README.md) | [汉语 ](./README_ZH.md)
 
 📺 **Video Demo** :  [Bilibili 哔哩哔哩]()
 
