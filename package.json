@@ -1,0 +1,22 @@
+{
+  "name": "universe-scintillation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiluyanxia/universe-scintillation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiluyanxia/universe-scintillation/issues"
+  },
+  "homepage": "https://github.com/yiluyanxia/universe-scintillation#readme",
+  "dependencies": {
+    "three": "^0.152.0"
+  }
+}
