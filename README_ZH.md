@@ -5,7 +5,7 @@
 [English ](/README.md) | [汉语 ](/README_ZH.md)
 
 
- 📺 **视频展示**： [Bilibili 哔哩哔哩]()
+ 📺 **视频展示**： [Bilibili 哔哩哔哩](https://www.bilibili.com/video/BV1Cu411h718/?spm_id_from=333.999.0.0&vd_source=c102c1c7764cff75f41d507cb1cfb90a)
 
 
 ## 🔩 项目安装
